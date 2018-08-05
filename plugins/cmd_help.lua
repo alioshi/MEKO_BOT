@@ -1,6 +1,6 @@
 --[[
 << تم برمجه وكتابه السورس من قبل مطورين >>
-<<         @BLCON  \  @TH3BOSS          >>
+<<         \  @VPS_O       >>
 ]]
 function run(msg, matches)
 if msg.to.type == 'channel' and redis:get(boss..'group:add'..msg.to.id) then
