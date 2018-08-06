@@ -1,6 +1,6 @@
 --[[
 << تم برمجه وكتابه السورس من قبل مطورين >>
-<<         @BLCON  \  @TH3BOSS          >>
+<<         \  @VPS_O       >>
 ]] 
 function load_proc()
 loadfile('./inc/functions.lua')()
